@@ -1,0 +1,10 @@
+{
+  "appId": "demo-app",
+  "apiKey": "3b09926b25e207d9f16c820a721bd97ff4b933b13c87fa44289894cde72dc0e5",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}

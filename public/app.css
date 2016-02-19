@@ -1,0 +1,13 @@
+.signupForm{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px 10px 10px 10px;
+	border: 1px solid #666666;
+	width: 15%;
+}
+.inp{
+	margin-top: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 100%;
+}
